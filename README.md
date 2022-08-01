@@ -18,7 +18,7 @@ Finalmente se tiene el archivo main que solo cuenta con un disparador para inici
 
 # Ejecución
 
-la siguiente url es la asignada por AWS para consumir la API REST 
+la siguiente url es la asignada por AWS para consumir el POST de la API REST 
 https://0861uyj7o5.execute-api.us-east-1.amazonaws.com/v1/topsecret
 
 el script propuesto en el ejecicio es el siguiente:
