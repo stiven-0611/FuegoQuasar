@@ -6,7 +6,7 @@ En vista de que los requerimientos dados para la prueba daban libertad para eleg
 
 <img width="378" alt="182242477-163d4a95-b110-40fc-bf53-819622550417" src="https://user-images.githubusercontent.com/14318998/182465005-04b4290f-adca-43f1-b102-d2d82c0e0d4b.png">
 
-# Distribucion de paqueteria
+# Distribución de paqueteria
 
 * #Conection: en este package esta implementada la logica que recibe y envia la comunicación con el servicio APIGateway de Lambda AWS
 * #Services: en este package estan las dos clases encargadas de los servicios, como son decode que se encarga de decodificar el mensaje y por otra parte la clase      trilateration que implementa el algoritmo de trilateración el cual permite la obtención de la ubicación del portacarga imperial usando la interseccion de los puntos entre circunferencias, basados en la formula matematica propuesta en: https://confluence.slac.stanford.edu/display/IEPM/TULIP+Algorithm+Alternative+Trilateration+Method
