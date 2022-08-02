@@ -14,7 +14,7 @@ En vista de que los requerimientos dados para la prueba daban libertad para eleg
 ![trilateration](https://user-images.githubusercontent.com/14318998/182245790-9063857e-9f5e-4c92-9ea8-04e480b93bc0.png)
 Imagen tomada de: https://confluence.slac.stanford.edu/display/IEPM/TULIP+Algorithm+Alternative+Trilateration+Method 
 
-* #Topsecret: este package es el encargado de recibir los parametros del y construir lo que será la respuesta en la clase topsecret, y por ultimo en la clase entities es donde estan almacenados los objetos o estructuras necesarias para almacenar la información a procesar.
+* #Topsecret: este package es el encargado de recibir los parametros y construir lo que será la respuesta en la clase topsecret, y por ultimo en la clase entities es donde estan almacenados los objetos o estructuras necesarias para almacenar la información a procesar.
 
 Finalmente se tiene el archivo main que solo cuenta con un disparador para iniciar la ejecución de nuestra API REST
 
